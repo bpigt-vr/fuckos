@@ -1,0 +1,2 @@
+# fuckos
+swaring linux distro
